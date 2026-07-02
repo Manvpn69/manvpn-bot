@@ -1,0 +1,34 @@
+[
+  {
+    "name": "PINK",
+    "template": "vless://UUID@104.17.148.22:80?path=/xvlessntls&encryption=none&host=speedtest.net.DOMAIN&type=ws#NAMA-PINK"
+  },
+  {
+    "name": "5IN1",
+    "template": "vless://UUID@172.66.169.187:80?path=/xvlessntls&security=none&encryption=none&host=DOMAIN&type=ws#NAMA-5IN1"
+  },
+  {
+    "name": "KUNING6",
+    "template": "vless://UUID@codecademy.com:80?path=/xvlessntls&encryption=none&host=DOMAIN&type=ws#NAMA-KUNING6"
+  },
+  {
+    "name": "KUNING3",
+    "template": "vless://UUID@162.159.134.61:80?path=/xvlessntls&encryption=none&host=DOMAIN&type=ws#NAMA-KUNING3"
+  },
+  {
+    "name": "OREN",
+    "template": "vless://UUID@biorecovery.com:80?path=/xvlessntls&security=none&encryption=none&host=DOMAIN&type=ws#NAMA-OREN"
+  },
+  {
+    "name": "OREN2",
+    "template": "vless://UUID@172.66.40.170:80?encryption=none&flow=none&type=ws&host=DOMAIN&headerType=none&path=/xvlessntls&security=none#NAMA-OREN2"
+  },
+  {
+    "name": "MERAHVIU",
+    "template": "vless://UUID@help.viu.com.DOMAIN:80?path=/xvlessntls&encryption=none&type=ws&host=help.viu.com#NAMA-MERAHVIU"
+  },
+  {
+    "name": "KUNINGBASIC",
+    "template": "vless://UUID@104.20.44.247:80?path=/xvlessntls&encryption=none&host=DOMAIN&type=ws#NAMA-KUNINGBASIC"
+  }
+]
